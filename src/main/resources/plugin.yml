@@ -1,0 +1,7 @@
+name: InfinityWorld
+version: '${project.version}'
+main: reyon.infinityworld.InfinityWorld
+api-version: '1.16'
+commands:
+  sv:
+    description: サバイバルワールド移動
